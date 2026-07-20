@@ -1,0 +1,15 @@
+# Environment variables
+backend/.env
+
+# Backend virtual environment
+backend/gre_back/
+
+# Frontend virtual environment
+frontend/gre_fro/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
