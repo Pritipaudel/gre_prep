@@ -1,0 +1,13 @@
+﻿badger | item=6 letter=a pos=v. resolved=pending
+  def: Any mammal belonging to the genera Meles, Arctonyx, Mellivora and Taxidea.
+  def: unpleasant, dull, or hard work
+implore | item=7 letter=b pos=None resolved=pending
+  def: (transitive) To beg or plead for (something) earnestly or urgently; to beseech.
+  def: unending
+drudgery | item=8 letter=c pos=None resolved=pending
+  def: Exhausting, menial, and tedious work.
+  def: to plead urgently for aid or mercy
+interminable | item=9 letter=d pos=None resolved=pending
+  def: to understand, know, become aware of
+percetve | item=10 letter=e pos=None resolved=pending
+  def: to pester, nag, annoy persistently
