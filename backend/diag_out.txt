@@ -1,2 +1,0 @@
-﻿Book ID=38 title=Image Upload
-Page ID=15 book_id=38 page_num=1 sections=['preamble', 'Sample Sentences', 'Definitions', "TODAY'S IDIOM"] has_defs=True

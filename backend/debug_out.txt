@@ -1,7 +1,0 @@
-21 abound 6 a resolved
-22 technologyb 7 None failed
-23 prognosticate 8 c resolved
-24 automatond 9 None failed
-25 matron 10 e resolved
-NEW WORDS SECT: ''
-DEFS SECT: 'Test yourself now by matching the new words with the definitions. If you are not sure of yourself, cover the top half of this page before you begin.\n\n6. abound a. an older married woman\n\n7. technologyb. branch of knowledge dealing with engineering, applied science, etc.\n\n8. prognosticate  c. a robot; a mechanical "person"\n\n9. automatond. to exist in great numbers\n\n10. matron e. to predict or foretell a future event\n\n## TODAY\'s IDIOM\n\na pig in a poke—an item you purchase without having seen; a disappointment The mail order bicycle that my nephew bought turned out to be a pig in a poke, and he is now trying to get his money back.'
